@@ -1,3 +1,15 @@
+# Linux Assignment 2
+**Group Number:** 9
+**Members:** Ekasjot Singh, Vipin Gulati, Vineet Kumar
+**Instructor:** Anmar
+
+## Description
+This repository contains our Linux Assignment 2 commands, screenshots, and theory answers.
+
+
+
+
+
 # Linux Assignment 2 – Template:
 This repo is just a "template" to be used by my students for the `**Linux Lab - Assignment2**`.
 

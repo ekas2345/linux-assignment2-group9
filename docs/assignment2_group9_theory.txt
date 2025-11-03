@@ -6,4 +6,5 @@ Members: Ekasjot Singh, Vipin Gulati, Vineet Kumar
 . refers to the current directory, .. refers to the parent directory, and ~ represents the home directory of the current user.
 
 2. Briefly describe the purpose of these directories: bin/, etc/, var/, and media/.
-bin/ contains essential command binaries, etc/ stores configuration files, var/ holds variable data like logs or caches, and media/ is used for removable media like USB drives.
+bin/ contains essential command binaries, etc/ stores configuration files, var/ holds variable data like logs or caches, and media/ 
+is used for removable media like USB drives.
